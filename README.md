@@ -8,7 +8,7 @@ This is a solution to the [QR code component challenge](https://www.frontendment
     https://qr-main.netlify.app/
 
 
-##Screenshot of my Final Project
+## Screenshot of my Final Project
 ![Design preview for the QR code component coding challenge](./preview.png)
 
 
